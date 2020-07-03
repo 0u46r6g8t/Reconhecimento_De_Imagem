@@ -14,11 +14,11 @@ Este projeto foi desenvolvido no 3° Semestre da graduação de Ciência da Comp
     
 # Materiais utilizados
 
-  Raspbarry pi 3;
-    -> Bluetooth
-  Smartphone com bluetooth;
-  Notebook com SO Linux Mint (Derivado do Ubuntu);
-  Ponte H para distribuir a energia para os 2 motores;
-  2 Motores 12v;
-  Câmera própria do Raspbarry pi;
+  Raspbarry pi 3,
+  Conexão ssh entre o computador e o Raspbarry pi,
+  Smartphone para criar uma rede lan entre o raspbarry e o notebook,
+  Notebook com SO Linux Mint (Derivado do Ubuntu),
+  Ponte H para distribuir a energia para os 2 motores,
+  2 Motores 12v,
+  Câmera própria do Raspbarry pi,
   
