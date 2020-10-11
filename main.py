@@ -2,7 +2,7 @@
 
 import cv2 // Biblioteca para utilizar os recurso da câmera e fazer o reconhecimento 
 import numpy as np 
-import biblioteca as b
+import lib as b
 import carrinho // Importa o os métodos do arquivo de controle direita, esquerda, frente e parar
 
 cap = cv2.VideoCapture(0)
